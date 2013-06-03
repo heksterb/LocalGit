@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7AEDD0CC175D3FB100049D26 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 7AEDD0CB175D3FB100049D26 /* main.cpp */; };
 		7AEDD0CE175D3FB100049D26 /* LocalGit.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 7AEDD0CD175D3FB100049D26 /* LocalGit.1 */; };
+		7AEDD0D5175D405C00049D26 /* NewFile.c in Sources */ = {isa = PBXBuildFile; fileRef = 7AEDD0D4175D405C00049D26 /* NewFile.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,7 @@
 		7AEDD0C8175D3FB100049D26 /* LocalGit */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LocalGit; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AEDD0CB175D3FB100049D26 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		7AEDD0CD175D3FB100049D26 /* LocalGit.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = LocalGit.1; sourceTree = "<group>"; };
+		7AEDD0D4175D405C00049D26 /* NewFile.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = NewFile.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				7AEDD0CB175D3FB100049D26 /* main.cpp */,
 				7AEDD0CD175D3FB100049D26 /* LocalGit.1 */,
+				7AEDD0D4175D405C00049D26 /* NewFile.c */,
 			);
 			path = LocalGit;
 			sourceTree = "<group>";
@@ -118,6 +121,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7AEDD0CC175D3FB100049D26 /* main.cpp in Sources */,
+				7AEDD0D5175D405C00049D26 /* NewFile.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
