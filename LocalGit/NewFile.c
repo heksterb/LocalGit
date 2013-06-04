@@ -8,3 +8,5 @@
 #include <stdio.h>
 
 // adding a new line
+
+// new line on 'master' branch
